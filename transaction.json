@@ -1,0 +1,143 @@
+[
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123450" },
+      "referenceId": "ref_1001",
+      "amount": 150.00,
+      "createdAt": { "$date": "2023-10-01T08:00:00Z" },
+      "updatedAt": { "$date": "2023-10-01T08:10:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123451" },
+      "referenceId": "ref_1002",
+      "amount": 250.50,
+      "createdAt": { "$date": "2023-10-01T08:20:00Z" },
+      "updatedAt": { "$date": "2023-10-01T08:30:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123452" },
+      "referenceId": "ref_1003",
+      "amount": 350.75,
+      "createdAt": { "$date": "2023-10-01T08:40:00Z" },
+      "updatedAt": { "$date": "2023-10-01T08:50:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123453" },
+      "referenceId": "ref_1004",
+      "amount": 450.00,
+      "createdAt": { "$date": "2023-10-01T09:00:00Z" },
+      "updatedAt": { "$date": "2023-10-01T09:10:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123454" },
+      "referenceId": "ref_1005",
+      "amount": 550.25,
+      "createdAt": { "$date": "2023-10-01T09:20:00Z" },
+      "updatedAt": { "$date": "2023-10-01T09:30:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123455" },
+      "referenceId": "ref_1006",
+      "amount": 160.00,
+      "createdAt": { "$date": "2023-10-15T08:00:00Z" },
+      "updatedAt": { "$date": "2023-10-15T08:10:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123456" },
+      "referenceId": "ref_1007",
+      "amount": 260.50,
+      "createdAt": { "$date": "2023-10-15T08:20:00Z" },
+      "updatedAt": { "$date": "2023-10-15T08:30:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123457" },
+      "referenceId": "ref_1008",
+      "amount": 360.75,
+      "createdAt": { "$date": "2023-10-15T08:40:00Z" },
+      "updatedAt": { "$date": "2023-10-15T08:50:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123458" },
+      "referenceId": "ref_1009",
+      "amount": 460.00,
+      "createdAt": { "$date": "2023-10-15T09:00:00Z" },
+      "updatedAt": { "$date": "2023-10-15T09:10:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123459" },
+      "referenceId": "ref_1010",
+      "amount": 560.25,
+      "createdAt": { "$date": "2023-10-15T09:20:00Z" },
+      "updatedAt": { "$date": "2023-10-15T09:30:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123460" },
+      "referenceId": "ref_1011",
+      "amount": 170.00,
+      "createdAt": { "$date": "2023-10-29T08:00:00Z" },
+      "updatedAt": { "$date": "2023-10-29T08:10:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123461" },
+      "referenceId": "ref_1012",
+      "amount": 270.50,
+      "createdAt": { "$date": "2023-10-29T08:20:00Z" },
+      "updatedAt": { "$date": "2023-10-29T08:30:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123462" },
+      "referenceId": "ref_1013",
+      "amount": 370.75,
+      "createdAt": { "$date": "2023-10-29T08:40:00Z" },
+      "updatedAt": { "$date": "2023-10-29T08:50:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123463" },
+      "referenceId": "ref_1014",
+      "amount": 470.00,
+      "createdAt": { "$date": "2023-10-29T09:00:00Z" },
+      "updatedAt": { "$date": "2023-10-29T09:10:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123464" },
+      "referenceId": "ref_1015",
+      "amount": 570.25,
+      "createdAt": { "$date": "2023-10-29T09:20:00Z" },
+      "updatedAt": { "$date": "2023-10-29T09:30:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123465" },
+      "referenceId": "ref_1016",
+      "amount": 180.00,
+      "createdAt": { "$date": "2023-11-12T08:00:00Z" },
+      "updatedAt": { "$date": "2023-11-12T08:10:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123466" },
+      "referenceId": "ref_1017",
+      "amount": 280.50,
+      "createdAt": { "$date": "2023-11-12T08:20:00Z" },
+      "updatedAt": { "$date": "2023-11-12T08:30:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123467" },
+      "referenceId": "ref_1018",
+      "amount": 380.75,
+      "createdAt": { "$date": "2023-11-12T08:40:00Z" },
+      "updatedAt": { "$date": "2023-11-12T08:50:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123468" },
+      "referenceId": "ref_1019",
+      "amount": 480.00,
+      "createdAt": { "$date": "2023-11-12T09:00:00Z" },
+      "updatedAt": { "$date": "2023-11-12T09:10:00Z" }
+    },
+    {
+      "_id": { "$oid": "6489f06b92fc1e0001123469" },
+      "referenceId": "ref_1020",
+      "amount": 580.25,
+      "createdAt": { "$date": "2023-11-12T09:20:00Z" },
+      "updatedAt": { "$date": "2023-11-12T09:30:00Z" }
+    }
+  ]
+  
